@@ -14,3 +14,22 @@ trust: high
 V7ZrWviCnEJhMAGJ9CmRsv3lHGz0RHQaXmmLMARvrNvGJMTS5W-cB4iwJaRfaDp4AXwgrFFm6mUDzVcSwH0pBw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2022-01-21T12:23:40.283688015-06:00"
+from:
+  id-type: crev
+  id: K6oUR_dyOT2Bj7X8Qvp4t6NwIrCjBrd9QT5PFKEUJfs
+  url: "https://github.com/PoisonPhang/crev-proofs"
+ids:
+  - id-type: crev
+    id: FYlr8YoYGVvDwHQxqEIs89reKKDy-oWisoO0qXXEfHE
+    url: "https://github.com/dpc/crev-proofs"
+trust: medium
+comment: |-
+  dpc|-
+----- SIGN CREV PROOF -----
+4KWBkV3gUy2B_sAdbhXCHOcv3vAi2xz4HcNMEAWe9RwUg9WcC2Rwgfe8pR20xtjbgBStMOPdDqFlD8OnnoXwCw
+----- END CREV PROOF -----
+
